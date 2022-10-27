@@ -1,0 +1,24 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "tbd",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "dependencies": {
+    "colors": "latest",
+    "mime": "^1.6.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chutiendat26092003/NodeJS__FPT-Aptech.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Chutiendat26092003/NodeJS__FPT-Aptech/issues"
+  },
+  "homepage": "https://github.com/Chutiendat26092003/NodeJS__FPT-Aptech#readme"
+}
