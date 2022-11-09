@@ -4,15 +4,25 @@
   "description": "tbd",
   "main": "index.js",
   "scripts": {
-    "test": "none"
+    "start": "nodemon ./Lab01/whatages.js",
+    "test": "jest"
   },
   "dependencies": {
+    "async": "^3.2.4",
     "colors": "latest",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "jade": "^1.11.0",
     "mime": "^1.6.0"
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "nodemon": "^2.0.20",
+    "q": "^1.5.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Chutiendat26092003/NodeJS__FPT-Aptech.git"
